@@ -2,8 +2,8 @@ TypeScript Assignment
 This repository contains TypeScript solutions for Problems 1–8 and two technical blog posts.
 Files
 - solutions.ts — implementations of the eight supplied TypeScript problems.
-- [`type-narrowing.md`](./type-narrowing.md) — explains narrowing with typeof, instanceof, and in.
-- [`typescript-generics.md`](./typescript-generics.md) — explains generics and Promise<T>.
+- [`type-narrowing.md`](./[type-narrowing].md) — explains narrowing with typeof, instanceof, and in.
+- [`typescript-generics.md`](./[typescripts-generics].md) — explains generics and Promise<T>.
 Run locally
 1. Install Node.js.
 2. Install TypeScript: npm install --save-dev typescript
